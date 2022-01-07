@@ -1,3 +1,5 @@
 # kokoa clone 2022
 
-css html go~ ahead
+CSS & HTML are so much fun~
+
+This time 01.08 00:44
