@@ -50,6 +50,16 @@
 	margin-bottom: 10px;
 	display: block;
 }
-.user-component__chat1 {
-	margin-top: 10px;
+.user-component__phonenumber {
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+}
+
+.user-component__phonenumber i {
+	margin-left: 5px;
+	bottom: -20px;
+	color: tomato;
+	opacity: 0.6;
+	font-size: 13px;
 }

@@ -12,6 +12,8 @@
 @import "components/badge.css";
 @import "components/point.css";
 @import "screens/find.css";
+@import "components/icon-row.css";
+@import "screens/more.css";
 body {
 	color: #2e363e;
 	font-family: "Open Sans", sans-serif;
