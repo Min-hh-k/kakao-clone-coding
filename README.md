@@ -1,5 +1,5 @@
 # kokoa clone 2022
 
-GG~
+## GG~
 
 This time 01.08 00:44
