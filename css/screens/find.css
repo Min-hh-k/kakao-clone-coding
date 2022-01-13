@@ -7,6 +7,7 @@
 .recommended-friends__title {
 	font-size: 14px;
 	color: var(--color-same);
+	margin-bottom: 20px;
 }
 
 .recommended-friends span {
